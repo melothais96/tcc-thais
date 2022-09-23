@@ -1,0 +1,2 @@
+# tcc-thais
+Este repositório contém a implementação de uma POC para validar alguns requisitos não funcionais levantados na proposta arquitetural criada para o trabalho de conclusão do curso de especialização em Arquitetura de Software Distribuído da PUC-MG, cujo objetivo geral deste trabalho é apresentar a proposta arquitetural completa e totalmente integrada do sistema GISA (Gestão Integral da Saúde do Associado), visando modernizar e aprimorar os serviços prestados pela operadora Boa Saúde. 
